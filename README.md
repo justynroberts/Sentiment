@@ -21,6 +21,7 @@ Clone the repository with
     git clone https://github.com/justynroberts/sentimental.git .
 
 To get the latest repo
+You will need Docker installed also.
 
 **Build & Run**
 
