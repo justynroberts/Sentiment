@@ -45,7 +45,7 @@ Broken down as:
 
 MONITOR="Hashtag or Twitter Handle eg @Justynroberts"
 
-PD_API_KEY="Enter your PagerDuty API Key"
+PD_ROUTING_KEY="Enter your PagerDuty Service Routing Key"
 
 TW_CONSUMER_KEY="Twitter Consumer Key"
 
@@ -55,9 +55,9 @@ TW_ACCESS_TOKEN="Twitter Access Token"
 
 TW_ACCESS_SECRET="Twitter Access Secret"
 
-TW_BEARER_TOKEN="This is the fourth environment variable"
+TW_BEARER_TOKEN="Twitter Bearer Token"
 
-TW_TIMEFRAME="100"
+TW_TIMEFRAME="100" # Time window in seconds for repeat tweet before notification
 
 **Logs**
 
