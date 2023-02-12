@@ -44,12 +44,19 @@ To run the container, you will need to execute the parameter with a set of confi
 Broken down as:
 
 MONITOR="Hashtag or Twitter Handle eg @Justynroberts"
+
 PD_API_KEY="Enter your PagerDuty API Key"
+
 TW_CONSUMER_KEY="Twitter Consumer Key"
+
 TW_CONSUMER_SECRET="Twitter Consumer Secret"
+
 TW_ACCESS_TOKEN="Twitter Access Token"
+
 TW_ACCESS_SECRET="Twitter Access Secret"
+
 TW_BEARER_TOKEN="This is the fourth environment variable"
+
 TW_TIMEFRAME="100"
 
 **Logs**
