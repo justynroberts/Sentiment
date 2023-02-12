@@ -18,13 +18,13 @@ Preferred deployment via Docker or ECS.
 
 Clone the repository with 
 
-    git clone https://github.com/justynroberts/Sentimental.git .
+    git clone https://github.com/justynroberts/sentimental.git .
 
 To get the latest repo
 
 **Build & Run**
 
-    cd Sentimental
+    cd sentimental
 
 To clean any previous builds
 
