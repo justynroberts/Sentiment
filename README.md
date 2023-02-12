@@ -60,6 +60,7 @@ TW_BEARER_TOKEN="This is the fourth environment variable"
 TW_TIMEFRAME="100"
 
 **Logs**
+
 To grab inflight logs
 
     docker logs sentiment -f
